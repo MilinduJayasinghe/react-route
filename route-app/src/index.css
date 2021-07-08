@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+ 
+}
+body{
+  align-items: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    min-height: 10vh;
+    background: rgb(252, 252, 252);
+    color: black;
+}
+
+
+
+ul{
+  display: flex;
+}
+
+li{
+  list-style: none;
+  margin-right: 20px;
+}
